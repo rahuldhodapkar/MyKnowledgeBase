@@ -1,0 +1,91 @@
+<info.opencards.core.FlashCardCollection serialization="custom">
+  <unserializable-parents/>
+  <list>
+    <default>
+      <size>4</size>
+    </default>
+    <int>4</int>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;0..15&quot;&gt;piloerection&lt;/h1&gt;</cardTitle>
+      <cardID>434874636</cardID>
+      <cardIndex>1</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;322..336&quot;&gt;peristalsis&lt;/h1&gt;</cardTitle>
+      <cardID>-1955238511</cardID>
+      <cardIndex>2</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;426..437&quot;&gt;jaundice&lt;/h1&gt;</cardTitle>
+      <cardID>-941922342</cardID>
+      <cardIndex>3</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+    <info.opencards.core.FlashCard>
+      <cardTitle>&lt;h1 md-src-pos=&quot;1398..1408&quot;&gt;bruxism&lt;/h1&gt;</cardTitle>
+      <cardID>-1189803441</cardID>
+      <cardIndex>4</cardIndex>
+      <revPolicy>NORMAL</revPolicy>
+    </info.opencards.core.FlashCard>
+  </list>
+  <info.opencards.core.FlashCardCollection>
+    <default>
+      <itColls>
+        <entry>
+          <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
+          <info.opencards.learnstrats.ltm.LTMCollection serialization="custom">
+            <unserializable-parents/>
+            <list>
+              <default>
+                <size>4</size>
+              </default>
+              <int>4</int>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>1</numRepetition>
+                <lastQuery>2016-09-21 03:39:19.298 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[2]"/>
+                <itemProps/>
+                <easiness>2.6</easiness>
+                <numRepetition>1</numRepetition>
+                <lastQuery>2016-09-21 03:39:22.754 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[3]"/>
+                <itemProps/>
+                <easiness>2.5</easiness>
+                <numRepetition>1</numRepetition>
+                <lastQuery>2016-09-21 03:40:55.515 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+              <info.opencards.learnstrats.ltm.LTMItem>
+                <parentCard reference="../../../../../../../../list/info.opencards.core.FlashCard[4]"/>
+                <itemProps/>
+                <easiness>2.36</easiness>
+                <numRepetition>1</numRepetition>
+                <lastQuery>2016-09-21 03:41:30.332 UTC</lastQuery>
+              </info.opencards.learnstrats.ltm.LTMItem>
+            </list>
+            <info.opencards.core.ItemCollection>
+              <default>
+                <props/>
+              </default>
+            </info.opencards.core.ItemCollection>
+          </info.opencards.learnstrats.ltm.LTMCollection>
+        </entry>
+      </itColls>
+      <properties/>
+      <syncStates>
+        <entry>
+          <java-class>info.opencards.learnstrats.ltm.LTMItem</java-class>
+          <boolean>true</boolean>
+        </entry>
+      </syncStates>
+    </default>
+  </info.opencards.core.FlashCardCollection>
+</info.opencards.core.FlashCardCollection>
